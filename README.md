@@ -5,8 +5,8 @@ An introductory project on:
 - Time complexity and Big O notation
 - Stability
 ## Requirements
-- Ubuntu 14.04
-- gcc 4.8.4
+- Ubuntu 20.04 LTS
+- gcc
 ## File Descriptions
 **[sort.h](sort.h)** - header file containing the prototypes of almost all functions and the definition of type `listint_t`. 
 
